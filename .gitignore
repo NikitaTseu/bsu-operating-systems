@@ -38,6 +38,7 @@ Release/
 *.vcxproj.filters
 *.vcxproj.user
 out.txt
+xx.txt
 output.txt
 *.out
 task_files/
